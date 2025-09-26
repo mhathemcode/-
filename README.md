@@ -13,4 +13,6 @@ This repository contains my first Python projects as I learn the basics of progr
    Calculates worker’s salary based on hours worked and rate.
 
 4. 🔤 **معرفة عدد الاحرف.py**  
-   Counts how many letters are in a given text.
+   Counts how many letters are in a give
+5.🧠*ذكاء اصطناعي لاحضار كلمات الاغنية*
+AI intelligence brings song lyrics by song name and singer 
